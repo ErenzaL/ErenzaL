@@ -24,6 +24,13 @@ Currently exploring AI, computer vision, Human-Centered AI systems, and open to 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+---
+## 📈 GitHub Stats
+
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenzaL&show_icons=true&theme=tokyonight)
+
+---
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
