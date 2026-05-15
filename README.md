@@ -31,7 +31,4 @@ Currently exploring AI, computer vision, Human-Centered AI systems, and open to 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Student;Computer+Vision+Explorer;Data+Enthusiast;Industrial+AI+Learner)](https://git.io/typing-svg)
-
----
 - Interested in building technology that helps real people
