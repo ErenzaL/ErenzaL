@@ -27,7 +27,7 @@ Currently exploring AI, computer vision, Human-Centered AI systems, and open to 
 ---
 ## 📈 GitHub Stats
 
-![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenzaL&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErenzaL&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
