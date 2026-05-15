@@ -27,7 +27,7 @@ Currently exploring AI, computer vision, Human-Centered AI systems, and open to 
 ---
 ## 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErenzaL&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats-rho-two-77.vercel.app/api?username=ErenzaL&show_icons=true&theme=tokyonight)
 
 ---
 
