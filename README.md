@@ -25,11 +25,6 @@ Currently exploring AI, computer vision, Human-Centered AI systems, and open to 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-rho-two-77.vercel.app/api?username=ErenzaL&show_icons=true&theme=tokyonight)
-
----
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
