@@ -1,10 +1,6 @@
 # Hey, I’m Eren 👋
 
 Data enthusiast.  
-Full-time debugger of problems I created myself.
-
-Most of my projects probably started with:
-“what if I try this?”
 
 Currently exploring AI, computer vision, Human-Centered AI systems, and open to exploring more about Smart Factory and Industrial AI
 ...while surviving university life with way too many notebooks, browser tabs, and unfinished experiments open at once.
